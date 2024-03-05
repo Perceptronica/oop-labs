@@ -1,0 +1,120 @@
+Killed: RK
+Coordinates: (138, 444)
+Killed: Elf
+Coordinates: (131, 438)
+Killed: Elf
+Coordinates: (414, 449)
+Killed: RK
+Coordinates: (411, 458)
+Killed: Druid
+Coordinates: (27, 362)
+Killed: Druid
+Coordinates: (30, 369)
+Killed: Elf
+Coordinates: (414, 449)
+Killed: RK
+Coordinates: (411, 458)
+Killed: Druid
+Coordinates: (27, 362)
+Killed: Druid
+Coordinates: (30, 369)
+Killed: Elf
+Coordinates: (414, 449)
+Killed: RK
+Coordinates: (411, 458)
+Killed: Druid
+Coordinates: (27, 362)
+Killed: Druid
+Coordinates: (30, 369)
+Killed: Elf
+Coordinates: (414, 449)
+Killed: RK
+Coordinates: (411, 458)
+Killed: Druid
+Coordinates: (27, 362)
+Killed: Druid
+Coordinates: (30, 369)
+Killed: Elf
+Coordinates: (414, 449)
+Killed: RK
+Coordinates: (411, 458)
+Killed: Druid
+Coordinates: (27, 362)
+Killed: Druid
+Coordinates: (30, 369)
+Killed: Elf
+Coordinates: (414, 449)
+Killed: RK
+Coordinates: (411, 458)
+Killed: Druid
+Coordinates: (27, 362)
+Killed: Druid
+Coordinates: (30, 369)
+Killed: Druid
+Coordinates: (233, 277)
+Killed: Druid
+Coordinates: (452, 143)
+Killed: Elf
+Coordinates: (375, 98)
+Killed: Druid
+Coordinates: (449, 142)
+Killed: Druid
+Coordinates: (151, 483)
+Killed: Druid
+Coordinates: (35, 280)
+Killed: RK
+Coordinates: (380, 95)
+Killed: Druid
+Coordinates: (235, 276)
+Killed: RK
+Coordinates: (435, 399)
+Killed: Druid
+Coordinates: (469, 313)
+Killed: RK
+Coordinates: (488, 78)
+Killed: Druid
+Coordinates: (444, 100)
+Killed: Druid
+Coordinates: (73, 417)
+Killed: Elf
+Coordinates: (441, 403)
+Killed: Elf
+Coordinates: (106, 74)
+Killed: Druid
+Coordinates: (330, 173)
+Killed: Druid
+Coordinates: (156, 30)
+Killed: RK
+Coordinates: (73, 289)
+Killed: Elf
+Coordinates: (76, 296)
+Killed: Druid
+Coordinates: (466, 307)
+Killed: Druid
+Coordinates: (332, 177)
+Killed: Elf
+Coordinates: (496, 76)
+Killed: RK
+Coordinates: (327, 248)
+Killed: RK
+Coordinates: (480, 336)
+Killed: Druid
+Coordinates: (499, 184)
+Killed: Druid
+Coordinates: (440, 202)
+Killed: RK
+Coordinates: (111, 74)
+Killed: Elf
+Coordinates: (485, 287)
+Killed: Druid
+Coordinates: (51, 89)
+Killed: Druid
+Coordinates: (348, 211)
+Killed: Druid
+Coordinates: (492, 191)
+Killed: RK
+Coordinates: (482, 293)
+Killed: Elf
+Coordinates: (483, 338)
+Killed: Elf
+Coordinates: (327, 244)
